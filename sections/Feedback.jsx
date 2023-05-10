@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion';
 
 import styles from '../styles';
-import { fadeIn, staggerContainer, zoomIn } from '../utils/motion';
+import { fadeIn, staggerContainer } from '../utils/motion';
 
 const Feedback = () => (
   <section className={`${styles.paddings}`}>
