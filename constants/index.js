@@ -34,13 +34,13 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
+    imgUrl: './vrpano.svg',
     title: 'A dedicated mission',
     subtitle:
         'L\'yarah means "to teaching" (sort of like l\'chaim!) and is at the core of our social mission. We believe that the best math teachers have the power to inspire, transform, and revitalize.',
   },
   {
-    imgUrl: '/headset.svg',
+    imgUrl: './headset.svg',
     title: 'A dealmaker seeking win-win',
     subtitle:
         'At L\'yarah, we believe in win-win. We negoitate deals that make teachers and schools happy to work with us. We offer a service that is data-driven and cost-effective.',
@@ -55,13 +55,13 @@ export const insights = [
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
-    imgUrl: '/planet-07.png',
+    imgUrl: './planet-07.png',
     title: '7 tips to easily master the madness of the Metaverse',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
-    imgUrl: '/planet-08.png',
+    imgUrl: './planet-08.png',
     title: 'With one platform you can explore the whole world virtually',
     subtitle:
         'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
