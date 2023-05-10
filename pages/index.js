@@ -7,7 +7,7 @@ const Home = () => (
     <Hero />
     <div className="relative">
       <About />
-      <div className="gradient-03 z-0" />
+      <div className="gradient-01 z-0" />
       <Explore />
     </div>
     <div className="relative">
