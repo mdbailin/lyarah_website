@@ -64,7 +64,7 @@ export const insights = [
     imgUrl: 'planet-08.png',
     title: 'With one platform you can explore the whole world virtually',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Stuff',
   },
 ];
 
