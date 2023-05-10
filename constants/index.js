@@ -27,23 +27,23 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Receive actionable, data-driven insights on which math teachers are best.',
+  'Each teacher goes through a rigorous process involving multiple recorded interviews.',
+  'Reduce turnaround time by 90%, getting you the best teacher you need fast.',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'A dedicated mission',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'L\'yarah means "to teaching" (sort of like l\'chaim!) and is at the core of our social mission. We believe that the best math teachers have the power to inspire, transform, and revitalize.',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'A dealmaker seeking win-win',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'At L\'yarah, we believe in win-win. We negoitate deals that make teachers and schools happy to work with us. We offer a service that is data-driven and cost-effective.',
   },
 ];
 

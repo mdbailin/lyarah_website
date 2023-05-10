@@ -77,11 +77,15 @@
 }
 
 .gradient-05 {
-  background: linear-gradient(
-    180deg,
-    rgba(255, 255, 255, 0.04) 0%,
-    rgba(255, 255, 255, 0) 100%
-  );
+  position: absolute;
+  width: 304px;
+  height: 100vh;
+  left: 30%;
+  top: 10%;
+
+  background: rgba(66, 27, 155, 0.75);
+  filter: blur(200px);
+  transform: rotate(-53.13deg);
 }
 
 .feedback-gradient {
@@ -105,3 +109,4 @@
   background: #65c4fa;
   filter: blur(150px);
 }
+
