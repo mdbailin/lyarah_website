@@ -29,7 +29,7 @@ export const exploreWorlds = [
 export const startingFeatures = [
   'Receive actionable, data-driven insights on which math teachers are best.',
   'Each teacher goes through a rigorous process involving multiple recorded interviews.',
-  'Reduce turnaround time by 90%, getting you the best teacher you need fastest.',
+  'Reduce turnaround time by 90%, getting you the best teacher you need fast.',
 ];
 
 export const newFeatures = [
