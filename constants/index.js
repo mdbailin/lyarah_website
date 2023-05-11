@@ -34,7 +34,7 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: 'vrpano.svg',
+    imgUrl: './vrpano.svg',
     title: 'A dedicated mission',
     subtitle:
         'L\'yarah means "to teaching" (sort of like l\'chaim!) and is at the core of our social mission. We believe that the best math teachers have the power to inspire, transform, and revitalize.',
