@@ -21,7 +21,7 @@ const Footer = () => (
         </h4>
         <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
           <img
-            src="/headset.svg"
+            src="./headset.svg"
             alt="headset"
             className="w-[24px] h-[24px] object-contain"
           />
@@ -36,7 +36,7 @@ const Footer = () => (
 
         <div className="flex items-center justify-between flex-wrap gap-4">
           <img
-            src="/lyarah.png"
+            src="./lyarah.png"
             className="w-[150px] h-[150px] object-contain"
           />
           <p className="font-normal text-[14px] text-white opacity-50">
