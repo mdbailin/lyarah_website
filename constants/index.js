@@ -1,28 +1,28 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: './planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: './teacher.jpg',
+    title: 'Math Teacher Placement',
   },
   {
     id: 'world-2',
-    imgUrl: './planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: './cinema.jpg',
+    title: 'Content Creation',
   },
   {
     id: 'world-3',
-    imgUrl: './planet-03.png',
-    title: 'Kadirojo Permai',
+    imgUrl: './law.jpg',
+    title: 'Regulatory Compliance',
   },
   {
     id: 'world-4',
-    imgUrl: './planet-04.png',
-    title: 'Paradise Island',
+    imgUrl: './math.png',
+    title: 'Curriculum Development',
   },
   {
     id: 'world-5',
-    imgUrl: './planet-05.png',
-    title: 'Hawkins Labs',
+    imgUrl: './time.png',
+    title: 'Fast Turnaround Time',
   },
 ];
 
@@ -34,13 +34,13 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: './vrpano.svg',
+    imgUrl: './apple.svg',
     title: 'A dedicated mission',
     subtitle:
         'L\'yarah means "to teaching" (sort of like l\'chaim!) and is at the core of our social mission. We believe that the best math teachers have the power to inspire, transform, and revitalize.',
   },
   {
-    imgUrl: './headset.svg',
+    imgUrl: './handshake.svg',
     title: 'A dealmaker seeking win-win',
     subtitle:
         'At L\'yarah, we believe in win-win. We negoitate deals that make teachers and schools happy to work with us. We offer a service that is data-driven and cost-effective.',
