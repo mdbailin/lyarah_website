@@ -22,7 +22,7 @@ const GetStarted = () => (
       >
         <img
           src="./globe.svg"
-          alt="globe"
+          alt="globed"
           className="w-[80%] h-[80%] object-contain"
         />
       </motion.div>
