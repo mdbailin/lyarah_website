@@ -23,7 +23,7 @@ const About = () => (
       />
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
-        className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center teext-secondary-white"
+        className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
         <span className="font-extrabold text-white">L'yarah </span>
         is an educational consultancy dedicated to bringing the best math teachers and the best

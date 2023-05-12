@@ -19,7 +19,7 @@ const Feedback = () => (
         variants={fadeIn('left', 'tween', 0.2, 1)}
         className="relative flex-1 flex justify-center items-center"
       >
-        <h1 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
+        <h1 className="font-bold md:text-[32px] text-[22px] sm:leading-[40.32px] leading-[36.32px] text-white">
           Contact us at
         </h1>
       </motion.div>
@@ -36,7 +36,7 @@ const Feedback = () => (
         variants={fadeIn('left', 'tween', 0.2, 1)}
         className="relative flex-1 flex justify-center items-center"
       >
-        <h3 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
+        <h3 className="font-bold md:text-[32px] text-[22px] sm:leading-[40.32px] leading-[36.32px] text-white">
           matthew@lyaraheducation.com
         </h3>
       </motion.div>
