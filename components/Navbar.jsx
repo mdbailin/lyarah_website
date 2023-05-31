@@ -3,7 +3,6 @@
 import { motion } from 'framer-motion';
 import styles from '../styles';
 import { navVariants } from '../utils/motion';
-import MobileDrawer from './mobileDrawer';
 
 const Navbar = () => (
   <motion.nav
