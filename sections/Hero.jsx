@@ -15,11 +15,11 @@ const Hero = () => (
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
       <div className="flex justify-center items-center flex-col relative z-10">
-        <motion.h1 variants={textVariant(1.3)} className={styles.heroHeading}>
+        <motion.h1 variants={textVariant(0.1)} className={styles.heroHeading}>
           L'yarah
         </motion.h1>
         <motion.div
-          variants={textVariant(1.4)}
+          variants={textVariant(1.1)}
           className="flex flex-row justify-center items-center"
         >
           <h1 className={styles.heroHeading}>Education</h1>
@@ -27,7 +27,7 @@ const Hero = () => (
       </div>
 
       <motion.div
-        variants={slideIn('right', 'tween', 0.2, 1)}
+        variants={slideIn('right', 'tween', 1.5, 1.5)}
         className="relative w-full md:-mt-[20px] -mt-[12px]"
       >
         <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" />
