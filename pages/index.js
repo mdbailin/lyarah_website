@@ -1,10 +1,12 @@
 import { Footer, Navbar } from '../components';
 import { About, Explore, Feedback, GetStarted, Hero, WhatsNew, World } from '../sections';
+import Youtube from '../sections/Youtube';
 
 const Home = () => (
   <div className="bg-primary-black overflow-hidden">
     <Navbar />
     <Hero />
+    <Youtube />
     <div className="relative">
       <About />
       <div className="gradient-01 z-0" />
