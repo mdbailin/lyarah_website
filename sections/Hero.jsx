@@ -24,6 +24,24 @@ const Hero = () => (
         >
           <h1 className={styles.heroHeading}>Education</h1>
         </motion.div>
+        <motion.div
+          variants={textVariant(1.6)}
+          className="flex flex-row justify-center items-center"
+        >
+          <button type="button" className="flex h-fit py-4 px-7 mr-5 sm:mr-16 bg-[#25618B] rounded-[32px] gap-[12px]">
+          <img
+            src="./blog.svg"
+            alt="email"
+            className="w-[24px] h-[24px] object-contain"
+          />
+          <a target="_blank" href="https://lyaraheducation.substack.com/">
+            <span className="font-normal text-[16px] text-white">
+              Blog
+            </span>
+          </a>
+        </button>
+        
+        </motion.div>
       </div>
       {/* <motion.div
         variants={slideIn('right', 'tween', 1.5, 1.5)}
